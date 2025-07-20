@@ -1,4 +1,8 @@
+
 ## Heart Disease Prediction Using Logistic Regression — Summary
+
+<img width="795" height="400" alt="image" src="https://github.com/user-attachments/assets/f302281a-290a-4bdf-82e2-8ba3935b5a20" />
+
 
 - **Objective:**  
   Predict the risk of heart disease based on patient health indicators from the Framingham Heart Study dataset.
