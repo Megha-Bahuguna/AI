@@ -1,6 +1,6 @@
 # 🚢 Titanic EDA Project
 
-<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/f5d41de1-f796-4f5f-840d-e79bdf8030f4" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/f5d41de1-f796-4f5f-840d-e79bdf8030f4" />
 
 
 #📘 View the rendered notebook here:  
