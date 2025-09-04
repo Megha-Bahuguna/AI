@@ -1,5 +1,8 @@
 # 🚢 Titanic EDA Project
 
+#📘 View the rendered notebook here:  
+👉 [Titanic EDA Notebook (nbviewer)] (https://nbviewer.org/github/Megha-Bahuguna/AI/blob/main/Titanic%20EDA/Titanic%20EDA%20Project.ipynb)
+
 ## 📌 Overview
 This project explores the Titanic dataset to understand patterns behind passenger survival.  
 I used **Python (Pandas, NumPy, Matplotlib, Seaborn)** for cleaning, analysis, and visualization.
