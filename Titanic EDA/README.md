@@ -1,5 +1,8 @@
 # 🚢 Titanic EDA Project
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/f5d41de1-f796-4f5f-840d-e79bdf8030f4" />
+
+
 #📘 View the rendered notebook here:  
 👉 [Titanic EDA Notebook (nbviewer)] (https://nbviewer.org/github/Megha-Bahuguna/AI/blob/main/Titanic%20EDA/Titanic%20EDA%20Project.ipynb)
 
